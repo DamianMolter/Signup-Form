@@ -80,6 +80,7 @@ input {
   width: 80%;
   text-align: center;
   color: white;
+  cursor: pointer;
 }
 
 .terms {
